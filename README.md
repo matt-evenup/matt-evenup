@@ -6,6 +6,6 @@
 
 ## Values
 
-- Write code to be read and understood first, executed second.
-- Seek out diverse perspectives early on, commit to a goal together.
+- Readability over performance. 
+- Seek input and collaboration early over approval later. 
 - Inventing new concepts is good, but simplifying concepts and worflows to their core components is better.
